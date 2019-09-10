@@ -1,5 +1,8 @@
-# Jesse Gould 
-## - Portfolio -
+# Jesse Gould Professional Portfolio
+---
+
+## - Work in progress -
+
 ---
 **Overview**:
 
@@ -10,6 +13,17 @@ A dedicated professional who brings creativity, passion, and unique vision to ev
 * Founder of a registered 501(c)(3) nonprofit organization 
 * Experience in finance, business management, and website development
 
+---
+**Website Design Experience**
+
+1.  Worked with SquareSpace and Wix
+2.  Created professional website for nonprofit foundation Heroic Hearts Project
+3.  Created dozens of graphics for marketing and promotional purposes
+   
+
+Sample:
+
+![Heroic Hearts Project Sample Graphic](https://www.heroicheartsproject.org)   
 ---
 **Professional Social Media Accounts**  
 
