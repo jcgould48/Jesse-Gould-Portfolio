@@ -14,7 +14,7 @@ A dedicated professional who brings creativity, passion, and unique vision to ev
 * Experience in finance, business management, and website development
 
 ---
-**Website Design Experience**
+**Website & Graphic Design Experience**
 
 1.  Worked with SquareSpace and Wix
 2.  Created professional website for nonprofit foundation Heroic Hearts Project
@@ -23,7 +23,8 @@ A dedicated professional who brings creativity, passion, and unique vision to ev
 
 Sample:
 
-![Heroic Hearts Project Sample Graphic](https://www.heroicheartsproject.org)   
+![Heroic Hearts Project Sample Graphic](https://github.com/jcgould48/Jesse-Gould-Portfolio/blob/master/hhp.jpg) 
+
 ---
 **Professional Social Media Accounts**  
 
