@@ -23,7 +23,8 @@ A dedicated professional who brings creativity, passion, and unique vision to ev
 
 Sample:
 
-![Heroic Hearts Project Sample Graphic](https://github.com/jcgould48/Jesse-Gould-Portfolio/blob/master/hhp.jpg) 
+<img src=/Users/jessegould/Documents/codeimmersives/term-1/week-1/jesse-gould-portfolio/hhp.jpg  >
+
 
 ---
 **Professional Social Media Accounts**  
