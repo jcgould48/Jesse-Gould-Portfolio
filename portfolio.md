@@ -15,7 +15,9 @@ A dedicated professional who brings creativity, passion, and unique vision to ev
 
 Jesse Gould
 
-[Jesse Gould's Professional LinkedIn](https://www.linkedin.com/in/jesse-gould-62515a7)
+[LinkedIn Profile](https://www.linkedin.com/in/jesse-gould-62515a7)
+
+[GitHub Page](https://github.com/jcgould48/Jesse-Gould-Portfolio)
 
 Heroic Hearts Project Business Pages
 
@@ -25,5 +27,5 @@ Heroic Hearts Project Business Pages
 
 [Twitter](https://twitter.com/weheroichearts/)
 
-
+---
 
