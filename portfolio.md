@@ -25,9 +25,9 @@ Sample:
 
 <img src=/Users/jessegould/Documents/codeimmersives/term-1/week-1/jesse-gould-portfolio/hhp.jpg >
 
-[HHP](https://static1.squarespace.com/static/58c859b6be65948d6edc3706/5b28315c575d1fc6af5e2ec5/5c3bb147562fa75d7009035b/1547416239064/1.jpg?format=1000w)
+![HHP](https://static1.squarespace.com/static/58c859b6be65948d6edc3706/5b28315c575d1fc6af5e2ec5/5c3bb147562fa75d7009035b/1547416239064/1.jpg?format=1000w)
 
-[HHP2](hhp.jpg)
+![HHP2](hhp.jpg)
 
 
 ---
